@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Match Hex Values with Regular Expression
 
-Introductory paragraph (replace this with your text)
+This is a tutorial of regex which is regular expression that will be explained how it works and will be used to match hex values.
 
 ## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The following regular expression will be used to match hex values:
+/^#?([a-f0-9]{6}|[a-f0-9]{3})$/
 
 ## Table of Contents
 
